@@ -9,5 +9,5 @@ After a calculation, the user will be prompted to continue or entering "n" to en
 # **Lab2**
 A WFP application where the user enters something in the textbox and by clicking the copy button, the red "Display here" label will produce the message in the textbox.
 
-#**Project2**
+# **Project2**
 A WFP application that lets the user enter a first and last name, an age, the number of hours worked, and the rate per hour. When the user clicks the calculate button, a message will appear showing the name, age, hours worked, and pay earned.
