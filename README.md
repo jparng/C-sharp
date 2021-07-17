@@ -11,3 +11,6 @@ A WFP application where the user enters something in the textbox and by clicking
 
 # **Project2**
 A WFP application that lets the user enter a first and last name, an age, the number of hours worked, and the rate per hour. When the user clicks the calculate button, a message will appear showing the name, age, hours worked, and pay earned.
+
+# **Lab4**
+WFP application that will calculate a donation after expenses are taken from it and  then add that donation to the total amount of donations given.
